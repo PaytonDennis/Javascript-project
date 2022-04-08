@@ -38,7 +38,7 @@ const menu = [
     category: "lunch",
     price: 22.99,
     img: "./images/item-5.jpeg",
-    desc: `Cheeseburger severed with a fluffy egg inside on a sesame seed bun. `,
+    desc: `Cheeseburger served with a fluffy egg inside on a sesame seed bun. `,
   },
   {
     id: 6,
